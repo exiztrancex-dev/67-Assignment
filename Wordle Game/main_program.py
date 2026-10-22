@@ -44,6 +44,6 @@ def play_wordle():
         if play_again != "yes" and play_again != "y":
             print("Thanks for playing!")
             break
-        else: 
-            continue
-        
+
+#starting the actual game
+play_wordle()

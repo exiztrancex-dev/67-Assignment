@@ -28,7 +28,7 @@ def get_guess (previous_guesses):
         
         except:
             print("Not a valid input! Please enter a 5 letter word")
-            player_guess = str(input("Guess a word! (Please enter a 5 letter word"))
+            
 
      
     return player_guess 
